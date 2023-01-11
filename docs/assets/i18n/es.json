@@ -1,0 +1,74 @@
+{
+  "Home": {
+    "Home": "Inicio",
+    "urlArre":"https://www.youtube.com/embed/fV8GvTlqcug",
+    "bienvenido":"Bienvenido a la pagina web oficial de CLYGAMES",
+    "Nav-Bar": {
+      "Español": "Español",
+      "Ingles": "Inglés"
+    },
+    "Menu": {
+      "Juegos": "Juegos",
+      "About": "Sobre",
+      "Noticias": "Noticias",
+      "Empleo": "Empleo",
+      "Prensa": "Prensa",
+      "Inicio": "Inicio",
+      "Contacto": "Contacto"
+    },
+    "TituloPrincipal": "Esto es la página principal de mi página web",
+    "RealizadoPor": "Realizado por: "
+  },
+  "About": {
+    "titulo": "Sobre Nosotros",
+    "desc": "Clygames es un estudio de nueva creación, se formó en 2020 con un proyecto demasiado ambicioso para un Trabajo de Fin de Grado, pero tuvimos que cambiar el rumbo del estudio para lanzar un producto que pudiera gustar al mercado actual de videojuegos. En 2021, tras graduarnos y con la ayuda de gente apasionada a los videojuegos, hemos querido dar rienda suelta a nuestra imaginación y nos hemos volcado en lanzar nuestro primer videojuego de venta al público, \"¡Arre Unicornio!\", para ver si con un poco de suerte podemos dedicarnos a lo que nos apasiona, desarrollar videojuegos. Nuestro principal enfoque es realizar videojuegos para PC y consolas con los que poder disfrutar de ratos divertidos con los amigos.",
+    "equipo": "Nuestro Equipo"
+  },
+  "Juegos": {
+    "Arre": "¡Arre Unicornio!",
+    "fraseDescArre": "Videojuego multijugador en línea de 2 a 8 jugadores. Frenético party game ambientado en un manicomio."
+  },
+  "arreUnicornio": {
+    "precioArre": "$5.99 / €4.95",
+    "plataformas": "Plataformas",
+    "fechaArre": "18 de marzo de 2022 (Acceso anticipado de Steam)",
+    "resumen": "Un nuevo concepto del juego de mesa ¡Arre Unicornio! ahora llevado a la locura que puede dar en formato videojuego. ¡Arre Unicornio! es un videojuego multijugador en línea de 2 a 8 jugadores. Es un frenético party game ...",
+    "descArre": "Un nuevo concepto del juego de mesa ¡Arre Unicornio! ahora llevado a la locura que puede dar en formato videojuego.\n¡Arre Unicornio! es un videojuego multijugador en línea de 2 a 8 jugadores. Es un frenético party game ambientado en un manicomio. Mezcla mecánicas de point and click y uso de cartas. La estrategia en tiempo real es vital para ganar ya que la agilidad mental y la capacidad de reacción se pondrán a prueba para tener alguna oportunidad de ganar en este juego. \n\nEn el manicomio de ¡Arre Unicornio! nada es lo que parece. Hay distintas formas de ganar dependiendo de la carta de rol que se juegue en ese momento.\n\nLos enfermos mentales intentarán escapar del manicomio, los doctores intentarán apresar a todos los enfermos mentales para tenerlos bien controlados, y el resto del personal del manicomio tienen problemas de existencialismo. Cada jugador con su propio objetivo hasta que cambia de bando.\n\nPero para tener alguna oportunidad de ganar hay que moverse rápido, ser muy avispado y estar atento a muchas cosas mientras el resto de jugadores te harán volverte loco con un arsenal de enfermedades y  tratamientos chungos que pueden lanzarte, entre otras cosas. \n\n¡Ánimo y no pierdas la cabeza en el intento!",
+    "caracteristica1": "4 tipos de personajes: Enfermos, Doctores, Director, Trabajadores.",
+    "caracteristica2": "Distintos tipos de cartas: Personajes, Objetos de fuga, objetos cotidianos, enfermedades mentales, tratamientos chungos, comodines.",
+    "caracteristica3": "10 cartas de enfermedad mental diferentes: con efectos distintos para favorecer o entorpecer al resto de jugadores o a uno mismo.",
+    "caracteristica4": "10 cartas de tratamiento chungo diferentes: cada una con su propia animación y efecto de sonido.",
+    "caracteristica5": "Escenario 3D ambientado en un manicomio.",
+    "caracteristica6": "Personajes 3D customizables."
+  },
+  "Prensa": {
+    "Presskit": "Prensa",
+    "desarrollador": "Desarrollador",
+    "ubicacion": "Ubicación",
+    "sitioWeb": "Sitio web",
+    "precioNormal": "Precio normal",
+    "plataforma":"Plataformas:",
+    "steam": "Steam",
+    "lanzamiento": "Fechas de lanzamiento",
+    "fact":"FACTSHEET",
+    "desc":"DESCRIPCIÓN",
+    "caracteristicas": "CARACTERÍSTICAS",
+    "videos": "VIDEOS",
+    "img" : "IMÁGENES",
+    "logosIcons": "LOGOTIPOS E ICONOS",
+    "sobreCly": "ACERCA DE CLYGAMES",
+    "creditos": "CRÉDITOS",
+    "Contacto": "CONTACTO"
+  },
+  "General": {
+    "construccion": "Página en Construcción"
+  },
+  "Contacto": {
+    "direccion" : "Dirección:",
+    "spain": "España",
+    "pregunta":"¿NECESITA PONERSE EN CONTACTO?",
+    "hablemos": "HABLEMOS",
+    "cuerpo":"Cualquier cosa que tenga que decir, nos encantaría saber de usted.    \nNegocios, prensa, soporte o simplemente para saludar, consulte los enlaces a continuación.",
+    "errores":"¿Has experimentado un error en nuestros juegos? \nRepórtalo en nuestro email."
+  }
+}
